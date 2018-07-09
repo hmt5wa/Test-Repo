@@ -1,6 +1,6 @@
-# Project Title
+# Test Project Title
 
-One Paragraph of project description goes here
+Playing with the README.md file.
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+example example example code
 ```
 
 ### Installing
@@ -21,13 +21,13 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+example example example code
 ```
 
 And repeat
 
 ```
-until finished
+example example example code
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -41,7 +41,7 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 ```
-Give an example
+example example example code
 ```
 
 ### And coding style tests
@@ -49,7 +49,7 @@ Give an example
 Explain what these tests test and why
 
 ```
-Give an example
+example example example code
 ```
 
 ## Deployment
@@ -58,9 +58,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Cats](https://www.animalplanet.com/pets/cats/) - These are cats
+* [Dogs](https://www.animalplanet.com/pets/dogs/) - These are dogs
+* [Wild Animals](https://www.animalplanet.com/wild-animals/) - These are wild
 
 ## Contributing
 
